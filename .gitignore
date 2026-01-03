@@ -1,0 +1,12 @@
+.gradle
+build/
+out/
+*.iml
+.idea/
+*.log
+*.class
+.DS_Store
+local.properties
+*.state
+*.db
+
